@@ -1,4 +1,2 @@
-gunicorn
-dash-tools
 statsmodels
 
