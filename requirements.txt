@@ -1,0 +1,6 @@
+gunicorn
+pandas
+dash-tools
+dash
+statsmodels
+pip==24.2
